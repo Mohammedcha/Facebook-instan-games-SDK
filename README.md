@@ -8,7 +8,7 @@ Learn how to integrate games built with JavaScript and HTML5 with Facebook insta
 </pre>
 
 
-<strong>2.</strong> Start loading game assets by adding this <code>Script</code> in the body of your game after the <code><body></code> Tag.
+<strong>2.</strong> Start loading game assets by adding this <code>Script</code> in the body of your game after the <code>< body></code> Tag.
 
 <pre>
 <script>
