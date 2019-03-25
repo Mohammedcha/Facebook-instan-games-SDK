@@ -1,7 +1,7 @@
 # Facebook-instan-games-SDK
 Learn how to integrate games built with JavaScript and HTML5 with Facebook instant games SDK
 
-<strong>1.</strong> You need to start creating your game client. The game client needs to have an <code>index.html</code> file in the root directory. Start by importing the Instant Games SDK by adding this line in the head of your game before the <code></head></code> Tag.
+<strong>1.</strong> You need to start creating your game client. The game client needs to have an <code>index.html</code> file in the root directory. Start by importing the Instant Games SDK by adding this line in the head of your game before the <code></ head></code> Tag.
 
 <pre>
 <script src="https://connect.facebook.net/en_US/fbinstant.6.2.js"></script>
