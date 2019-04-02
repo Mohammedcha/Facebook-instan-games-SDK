@@ -1,0 +1,18 @@
+{
+  "instant_games": {
+    "platform_version": "RICH_GAMEPLAY",
+    "custom_update_templates": {
+      "play_turn": {
+        "example": "Mohammed cha played their move"
+      },
+      "match_won": {
+        "example": "Mohammed cha just won the match"
+      },
+      "match_tie": {
+        "example": "It's a tie!"
+      }
+    },
+    "orientation": "PORTRAIT",
+    "navigation_menu_version": "NAV_FLOATING"
+  }
+}
