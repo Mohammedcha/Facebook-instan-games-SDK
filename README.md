@@ -32,6 +32,6 @@ Learn how to integrate games built with JavaScript and HTML5 with Facebook insta
 }
 </pre>
 
-The <code>fbapp-config.json</code> file should be saved in the main folder of the game <strong>(the same folder that contains index.html)</strong>
+The <code>fbapp-config.json</code> file should be placed in the main folder of the game <strong>(the same folder that contains index.html)</strong>
 
 You can now compress the whole folder in <code>zip</code> format and upload it to Facebook.
