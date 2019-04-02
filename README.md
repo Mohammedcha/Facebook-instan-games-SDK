@@ -21,17 +21,6 @@ Learn how to integrate games built with JavaScript and HTML5 with Facebook insta
 </script>
 </pre>
 
-<strong>3.</strong> You need to create a new file named <code>fbapp-config.json</code> and place the following code in it
-
-<pre>
-{
-  "instant_games": {
-    "orientation": "PORTRAIT", 
-    "navigation_menu_version": "NAV_FLOATING"
-  }
-}
-</pre>
-
-The <code>fbapp-config.json</code> file should be placed in the main folder of the game <strong>(the same folder that contains index.html)</strong>
+<strong>3.</strong> The <code>fbapp-config.json</code> file should be placed in the main folder of the game <strong>(the same folder that contains index.html)</strong>
 
 You can now compress the whole folder in <code>zip</code> format and upload it to Facebook.
